@@ -9,12 +9,11 @@ const About = () => {
         <article>
           <SectionTitle text="about me" />
           <p className="text-slate-600 mt-8 leading-loose">
-            Jelly sweet roll jelly beans biscuit pie macaroon chocolate donut.
-            Carrot cake caramels pie sweet apple pie tiramisu carrot cake.
-            Marzipan marshmallow croissant tootsie roll lollipop. Cupcake lemon
-            drops bear claw gummies. Jelly bear claw gummi bears lollipop cotton
-            candy gummi bears chocolate bar cake cookie. Cupcake muffin danish
-            muffin cookie gummies.
+            I’m a full-stack developer in training who loves turning ideas into
+            smooth, scalable web experiences. I work with the MERN stack to
+            build interactive and user-friendly apps, always focusing on clean
+            code and great design. I’m constantly learning, experimenting, and
+            collaborating to grow as a developer.
           </p>
         </article>
       </div>
