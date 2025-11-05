@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Skills from "./components/Skills";
 import About from "./components/About";
 import Projects from "./components/Projects";
+import { projects, practice_projects } from "./data";
 
 const App = () => {
   return (
@@ -11,7 +12,8 @@ const App = () => {
       <Hero />
       <Skills />
       <About />
-      <Projects />
+      <Projects projects={projects} text="Web Creations" />
+      <Projects projects={practice_projects} text="Web Creations - Practice" />
     </>
   );
 };
